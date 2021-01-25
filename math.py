@@ -5,4 +5,4 @@ def sub():
 def div():
 	return a/b
 def mul():
-		return a*b
+	return a*b
