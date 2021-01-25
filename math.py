@@ -1,2 +1,5 @@
 def add():
-return a+b
+	return a+b
+def sub():
+	return a-b
+
